@@ -46,3 +46,5 @@ Usage:
 ```
 $ python main.py 1-1-2018 4-1-2018 ./output.csv
 ```
+
+Note: input dates expected to be in `%m-%d-%Y` format.
