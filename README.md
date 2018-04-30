@@ -47,4 +47,7 @@ Usage:
 $ python main.py 1-1-2018 4-1-2018 ./output.csv
 ```
 
-Note: input dates expected to be in `%m-%d-%Y` format.
+Notes: 
+
+- Input dates expected to be in `%m-%d-%Y` format.
+- Request might take a while since there's a `sleep(5)` after each request. Just to let the SAMDI server take a rest ;)
